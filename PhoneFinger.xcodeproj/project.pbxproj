@@ -284,6 +284,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.wonderwarp.phonefinger;
 				PRODUCT_NAME = PhoneFinger;
 				SDKROOT = macosx;
+				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
@@ -308,6 +309,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.wonderwarp.phonefinger;
 				PRODUCT_NAME = PhoneFinger;
 				SDKROOT = macosx;
+				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};

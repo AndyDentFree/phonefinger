@@ -1,3 +1,6 @@
+# Update 20/01/2019
+Added support to x86_64 architecture
+
 # PhoneFinger
 
 PhoneFinger transforms your Mac's mouse cursor into a realistic simulated human finger for testing and demoing iPhone applications and websites. It was released in 2008 as freeware and is now open-source.
@@ -13,8 +16,8 @@ PhoneFinger transforms your Mac's mouse cursor into a realistic simulated human 
                 <a href="http://www.youtube.com/watch?v=3H8SeTyYXkY">Chris Pirillo</a><br/>
                 <a href="http://www.youtube.com/watch?v=J2HdUuM_2Gk">Quantum Pool</a><br/>
                 <a href="http://www.pentopuzzle.com/">Pentos</a>
- 
- 
+
+
 ### Hand Format
  <p>PhoneFinger uses its own <code>.hand</code> format to bundle hand graphics and related information. In addition to those that are built-in, PhoneFinger will use .hands from <code>~/Library/Application Support/PhoneFinger/Hands</code>.</p>
 
