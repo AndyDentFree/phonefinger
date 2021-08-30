@@ -1,0 +1,9 @@
+Andy Dent's quirky approach of logging changes in extreme detail so you can understand WHY without VCS logs
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Building with XCode 12.4- compiles and runs but finger not moving
+2021-08-30
+
+NSWindow+Transforms.m
+- replace all _frame with self.frame
+- replace all _windowNum with self.windowNumber (less certain about this one)
